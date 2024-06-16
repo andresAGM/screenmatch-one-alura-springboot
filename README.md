@@ -12,3 +12,4 @@
 <h2>Funcionalidades</h2>
 <li><code>Funcionalidad 1:</code> Se hace un peticion a la api de OMDB con http</li>
 <li><code>Funcionalidad 2:</code> Se utiliza Jackson para descerializar los datos de la peticion</li>
+<li><code>Funcionalidad 3:</code> Se trabajo con tipos generios, los utilizamos para evitar repetir codigo en caso de escalar la aplicacion y no usar solo series sino peliculas, etc.</li>
